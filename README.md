@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @DaNoobWin
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning Coding
+- 🌱 I’m kinda learning Coding
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me Discord: DaNoobWin#8942
-
-<!---
-DaNoobWin/DaNoobWin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me Discord: danoobwin
