@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DaNoobWin
-- 👀 I’m interested in Gaming
-- 🌱 I’m kinda learning Coding
-- 💞️ I’m looking to collaborate on Projects
+- 👋 Sup losers, I’m @DaNoobWin
+- 👀 I am a better gamer than you
+- 🌱 I’m sorta learning Coding
+- 💞️ I’m NOT looking to collaborate on your boring Projects
 - 📫 How to reach me Discord: danoobwin
